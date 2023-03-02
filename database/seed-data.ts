@@ -81,7 +81,7 @@ export const initialData: SeedData = {
       slug: "men_raven_lightweight_zip_up_bomber_jacket",
       type: "shirts",
       tags: ["shirt"],
-      title: "Men's Raven Lightweight Zip Up Bomber Jacket",
+      title: "Xiaomi Phone",
       gender: "men",
     },
 
