@@ -100,7 +100,7 @@ export const SideMenu = () => {
             <ListItemIcon>
               <MaleOutlined />
             </ListItemIcon>
-            <ListItemText primary={"Hombres"} />
+            <ListItemText primary={"Phones"} />
           </ListItem>
 
           <ListItem
@@ -111,7 +111,7 @@ export const SideMenu = () => {
             <ListItemIcon>
               <FemaleOutlined />
             </ListItemIcon>
-            <ListItemText primary={"Mujeres"} />
+            <ListItemText primary={"Laptops"} />
           </ListItem>
 
           <ListItem
@@ -122,7 +122,7 @@ export const SideMenu = () => {
             <ListItemIcon>
               <EscalatorWarningOutlined />
             </ListItemIcon>
-            <ListItemText primary={"Niños"} />
+            <ListItemText primary={"Tablets"} />
           </ListItem>
 
           {isLoggedIn ? (
